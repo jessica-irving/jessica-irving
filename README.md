@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jessica, a mental and public health data scientist.
 
-I currently work for the UK Health Security Agency, and previously worked as a psychiatric researcher at King's College London. As most of my projects use confidential data, they cannot be published online. Therefore I will only be updating this GitHub in the rare instances where the data I use are publically available.
+I currently work for the UK Health Security Agency, and previously worked as a psychiatric researcher at King's College London. As most of my projects use confidential data, they unfortunately can't be published online. Therefore I will only be updating this GitHub in the rare instances where the data I use are publically available.
 
 <!--
 **jessica-irving/jessica-irving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
